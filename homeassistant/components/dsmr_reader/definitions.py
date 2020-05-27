@@ -98,6 +98,21 @@ DEFINITIONS = {
         "icon": "mdi:flash",
         "unit": VOLT,
     },
+    "dsmr/reading/phase_power_current_l1": {
+        "name": "Phase power current l1",
+        "icon": "mdi:flash",
+        "unit": "AMPÈRE",
+    },    
+    "dsmr/reading/phase_power_current_l2": {
+        "name": "Phase power current l2",
+        "icon": "mdi:flash",
+        "unit": "AMPÈRE",
+    },
+    "dsmr/reading/phase_power_current_l3": {
+        "name": "Phase power current l3",
+        "icon": "mdi:flash",
+        "unit": "AMPÈRE",
+    },     
     "dsmr/consumption/gas/delivered": {
         "name": "Gas usage",
         "icon": "mdi:fire",
